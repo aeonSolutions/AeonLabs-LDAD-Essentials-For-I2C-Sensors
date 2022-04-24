@@ -46,7 +46,7 @@ ________________________________________________________________________________
 - ESP32 WROOM32 x1 : https://s.click.aliexpress.com/e/_AF7N6l
 - KF350 Screw pitch 3.5mm Straight 3 Pin pcb terminal block : https://s.click.aliexpress.com/e/_AChDnp
 
-- This PCB connects with the DS18b20 Temperature sensor : https://s.click.aliexpress.com/e/_AWDAMr 
+- This PCB connects with the any I2C compatible sensor such as the SHT3x, SG30, etc :  https://s.click.aliexpress.com/e/_A1piJN
 
 ## PCB Enclosure
 The enclosure for this PCB can be bought online by searching for "[Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz)".
