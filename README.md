@@ -12,11 +12,7 @@ This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/searc
 - revision 1.0
   
 ## Download options
-Download this repository if you need the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
@@ -32,10 +28,6 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 
 The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
-
-## Nextion LCDs
-If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
-
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
