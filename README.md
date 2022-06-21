@@ -31,6 +31,9 @@ The price starts at 30eur plus postage fees.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_enclosure.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_enclosure2.jpg)
+
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_back.png)
 
