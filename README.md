@@ -9,7 +9,7 @@ This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/searc
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/working_yellow.png)  revision 6.1 Waiting for first batch from factory to be tested.
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/working_green.png)  revision 1.0 tested and working
 
 If you already tested this PCB send me a message. Thank you
 
